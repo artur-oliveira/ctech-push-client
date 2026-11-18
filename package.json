@@ -4,7 +4,7 @@
   "description": "Web Push for CTech apps: a cache-free service worker plus the subscription client and React hook.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/artur-oliveira/ctech-push-client"
+    "url": "git+https://github.com/artur-oliveira/ctech-push-client.git"
   },
   "type": "module",
   "main": "./dist/index.js",
