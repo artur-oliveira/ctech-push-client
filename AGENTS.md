@@ -1,4 +1,4 @@
-# AGENTS.md — ctech-push-client (npm `@aoctech/push-client`)
+# AGENTS.md - ctech-push-client (npm `@aoctech/push-client`)
 
 ## CTech Standards (mandatory)
 
