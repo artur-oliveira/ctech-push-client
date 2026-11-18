@@ -1,6 +1,6 @@
 {
   "name": "@aoctech/push-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web Push for CTech apps: a cache-free service worker plus the subscription client and React hook.",
   "repository": {
     "type": "git",
