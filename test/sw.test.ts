@@ -36,7 +36,7 @@ describe('sw.js', () => {
       tag: golden.notification.tag,
       lang: 'pt-BR',
       silent: false,
-      data: {v: 1, id: 'evt-0001', type: 'document.rejected', navigate: golden.notification.navigate},
+      data: {v: 1, id: golden.notification.data.id, type: 'document.rejected', navigate: golden.notification.navigate},
     });
   });
 
